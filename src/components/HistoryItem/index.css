@@ -1,0 +1,21 @@
+li {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+}
+.ListItems {
+  display: flex;
+}
+
+.ListItems p {
+  margin: 10px;
+}
+
+button{
+  background-color: transparent;
+  border-width: 0px;
+}
